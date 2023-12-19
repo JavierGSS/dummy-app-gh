@@ -16,3 +16,4 @@ function red(x) {
 }
 
 header.innerHTML = `${main(number)} is the successor of ${number}.`;
+exports.script = main;

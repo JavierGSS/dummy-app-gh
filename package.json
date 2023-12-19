@@ -7,5 +7,8 @@
     "test": "jest"
   },
   "author": "jagasal@icloud.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
 }
