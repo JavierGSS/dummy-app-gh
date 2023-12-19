@@ -1,4 +1,4 @@
-let number = Math.floor(Math.random() * 10);
+let number = Math.floor(Math.random() * 1);
 let header = document.getElementById("root");
 
 function main(x) {
